@@ -9,6 +9,9 @@ public class Envio {
     private Pedido pedido;
 
     public Envio() {
+        this.estado=null;
+        this.direccion=null;
+        this.pedido=null;
     }
 
     public Envio(int id, String estado) {

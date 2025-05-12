@@ -1,0 +1,16 @@
+pe\edu\pucp\softprog\getPedido\model\PedidoItem.class
+pe\edu\pucp\softprog\getPedido\model\Pago.class
+pe\edu\pucp\softprog\getPedido\model\Envio.class
+pe\edu\pucp\softprog\getUsuario\model\Juridica.class
+pe\edu\pucp\softprog\getUsuario\model\Direccion.class
+pe\edu\pucp\softprog\getPedido\model\Pedido.class
+pe\edu\pucp\softprog\getPedido\model\EstadoPedido.class
+pe\edu\pucp\softprog\getProducto\model\TipoMedida.class
+pe\edu\pucp\softprog\getPedido\model\ItemCarrito.class
+pe\edu\pucp\softprog\getUsuario\model\Persona.class
+pe\edu\pucp\softprog\getProducto\model\Producto.class
+pe\edu\pucp\softprog\getUsuario\model\Natural.class
+pe\edu\pucp\softprog\getUsuario\model\Administrador.class
+pe\edu\pucp\softprog\getPedido\model\EstadoPago.class
+pe\edu\pucp\softprog\getProducto\model\PrecioPresentacion.class
+pe\edu\pucp\softprog\getPedido\model\Carrito.class
